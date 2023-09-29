@@ -1,0 +1,9 @@
+Craete a rest api without database
+
+.We will follow the MVC architecture
+.Routes demo
+
+/users -> GET -> {id,username,email}
+/users/ -> POST -> {username,email}
+/users/:id ->PUT -> update the user
+/user/:id -> DELETE -> delete the user
